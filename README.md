@@ -100,22 +100,19 @@ Up/Down Counter (CTUD): The output should activate when the count reaches the pr
 <img width="1509" height="312" alt="image" src="https://github.com/user-attachments/assets/385d8af6-42f6-47e0-8c7a-b555fd2c8058" />
 
 
-## UP/DOWN COUNTER - 1
+## UP/DOWN COUNTER 
 
-<img width="1606" height="651" alt="image" src="https://github.com/user-attachments/assets/bb44dd6f-189d-438b-99ad-beeb9302e3a0" />
-<img width="1406" height="548" alt="image" src="https://github.com/user-attachments/assets/dfef5e5d-791d-4bbc-9310-700a3ce2bca0" />
-<img width="1505" height="220" alt="image" src="https://github.com/user-attachments/assets/f852d690-42b9-43eb-858e-3a1792d28661" />
-<img width="1503" height="193" alt="image" src="https://github.com/user-attachments/assets/052d4a4f-22e7-4ed5-a633-4c2cb2d01e1c" />
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/2de494fd-0783-49fa-a752-f2d404ef3841" />
-<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/dcab747b-726a-4d3b-8d7f-014544fa9971" />
+<img width="1076" height="562" alt="image" src="https://github.com/user-attachments/assets/31ffd1fb-dc62-4878-98d9-cb2583e1600c" />
+<img width="1097" height="662" alt="image" src="https://github.com/user-attachments/assets/7240c06b-5bc8-4cc8-84c1-07cc26eb2597" />
+<img width="781" height="440" alt="image" src="https://github.com/user-attachments/assets/780792de-1d74-4bd1-bc31-6aab47673010" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea1a1e18-2ac9-490f-b84e-7ac87b90f2fc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d504c7c8-1951-4fcb-afa6-eab4c5f90042" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35658984-e011-43d6-9bb4-6a87db9bbe7f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8742f39b-cef1-47cd-99b4-5e0d3c64795e" />
 
 
 
-## UP/DOWN COUNTER - 2
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/949f1ac1-4242-480d-a46f-3da6e3207f2c" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/411bacdb-e831-41a1-9c7d-3849c6c004c2" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/73cb3c01-7cf9-457e-8b02-c7d94cb29774" />
 
 
 ### Results:
