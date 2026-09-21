@@ -87,14 +87,14 @@ Up/Down Counter (CTUD): The output should activate when the count reaches the pr
 
 ## UP COUNTER
 
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/d10a73d8-310f-4d4b-ba69-ea6d46cfde5f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5124d349-d5d4-4ce0-97b1-564740dd5e67" />
 <img width="1504" height="155" alt="image" src="https://github.com/user-attachments/assets/1789d325-bf08-4f96-b08e-6d333e369175" />
 <img width="1501" height="200" alt="image" src="https://github.com/user-attachments/assets/80580b9e-e153-419e-a77d-b80c70d1517a" />
 <img width="1500" height="250" alt="image" src="https://github.com/user-attachments/assets/fc879771-5efa-44ef-ba39-3bccbda69c6d" />
 
 ## DOWN COUNTER
-<img width="1463" height="647" alt="image" src="https://github.com/user-attachments/assets/335fb845-a6ec-4828-b76e-593fe5555e80" />
-<img width="1351" height="375" alt="image" src="https://github.com/user-attachments/assets/0b591846-3700-465f-8845-2e8ff21df6e9" />
+<img width="992" height="593" alt="image" src="https://github.com/user-attachments/assets/f9ab12ff-91f2-44db-a8f4-28bcb3ca570f" />
+<img width="816" height="250" alt="image" src="https://github.com/user-attachments/assets/184c0f77-1c3c-47aa-8ee2-d7fdecea7191" />
 <img width="1502" height="229" alt="image" src="https://github.com/user-attachments/assets/3244f3c8-f554-4d12-85ba-e8a2806379f7" />
 <img width="1504" height="339" alt="image" src="https://github.com/user-attachments/assets/b218a96b-d074-46b6-84eb-8ec7feb2615b" />
 <img width="1509" height="312" alt="image" src="https://github.com/user-attachments/assets/385d8af6-42f6-47e0-8c7a-b555fd2c8058" />
